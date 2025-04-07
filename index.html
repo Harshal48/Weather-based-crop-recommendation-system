@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Crop Recommendation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>🌾 Crop Recommendation System</h2>
+        <form id="cropForm">
+            <div class="form-group">
+                <label>🌡️ Temperature</label>
+                <input type="number" step="any" name="Temperature" required>
+            </div>
+            <div class="form-group">
+                <label>💧 Humidity</label>
+                <input type="number" step="any" name="Humidity" required>
+            </div>
+            <div class="form-group">
+                <label>🌧️ Rainfall</label>
+                <input type="number" step="any" name="Rainfall" required>
+            </div>
+            <div class="form-group">
+                <label>🗓️ Season</label>
+                <select name="Season">
+                    <option>Kharif</option>
+                    <option>Rabi</option>
+                    <option>Zaid</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>🌱 Soil Type</label>
+                <select name="SoilType">
+                    <option>Black Soil</option>
+                    <option>Red Soil</option>
+                    <option>Alluvial Soil</option>
+                    <option>Sandy Soil</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>🚿 Irrigation Type</label>
+                <select name="IrrigationType">
+                    <option>Flood</option>
+                    <option>Sprinkler</option>
+                    <option>Rain-fed</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>🌾 Land Area (in acres)</label>
+                <input type="number" step="any" name="LandArea" required>
+            </div>
+            <div class="form-group">
+                <label>📍 Region</label>
+                <select name="Region">
+                    <option>Konkan</option>
+                    <option>Western Maharashtra</option>
+                    <option>Vidarbha</option>
+                    <option>Marathwada</option>
+                </select>
+            </div>
+            <button type="submit">Get Recommendation</button>
+        </form>
+        <p id="result"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,501 @@
+Temperature,Humidity,Rainfall,Season,SoilType,IrrigationType,LandArea,Region,Crop
+25.8,63.0,881.6,Kharif,Sandy Soil,Sprinkler,2.89,Konkan,Groundnut
+18.2,56.4,397.9,Rabi,Black Soil,Flood,2.36,Western Maharashtra,Wheat
+27.5,73.5,1869.2,Kharif,Alluvial Soil,Flood,4.77,Konkan,Rice
+22.6,54.5,305.2,Rabi,Black Soil,Flood,4.09,Western Maharashtra,Wheat
+23.0,56.8,462.6,Rabi,Red Soil,Rain-fed,2.25,Western Maharashtra,Chickpea
+26.6,64.1,866.1,Kharif,Red Soil,Rain-fed,3.99,Vidarbha,Soybean
+32.4,64.0,561.5,Kharif,Red Soil,Rain-fed,1.16,Western Maharashtra,Groundnut
+22.0,53.1,407.0,Rabi,Black Soil,Rain-fed,4.59,Vidarbha,Chickpea
+23.0,56.2,330.5,Rabi,Black Soil,Flood,2.02,Western Maharashtra,Wheat
+25.5,43.6,440.4,Rabi,Red Soil,Rain-fed,3.72,Western Maharashtra,Chickpea
+25.4,50.7,437.2,Rabi,Black Soil,Rain-fed,1.68,Western Maharashtra,Chickpea
+29.6,84.8,732.8,Annual,Alluvial Soil,Drip,2.96,Western Maharashtra,Sugarcane
+33.1,67.1,590.7,Kharif,Red Soil,Sprinkler,0.53,Western Maharashtra,Groundnut
+30.5,64.2,788.2,Kharif,Black Soil,Rain-fed,3.41,Marathwada,Tur (Pigeon pea)
+31.2,76.1,969.4,Kharif,Laterite Soil,Rain-fed,2.31,Konkan,Rice
+29.8,73.4,899.5,Kharif,Red Soil,Rain-fed,4.7,Vidarbha,Soybean
+23.6,71.7,826.4,Kharif,Red Soil,Rain-fed,1.34,Marathwada,Soybean
+26.7,72.7,982.0,Kharif,Red Soil,Rain-fed,4.93,Marathwada,Soybean
+32.1,49.2,583.1,Kharif,Red Soil,Rain-fed,3.88,Marathwada,Bajra
+31.6,44.3,537.7,Kharif,Sandy Soil,Rain-fed,2.37,Marathwada,Bajra
+27.9,58.5,735.5,Rabi,Red Soil,Rain-fed,1.14,Western Maharashtra,Jowar
+27.2,62.5,698.1,Kharif,Sandy Soil,Rain-fed,2.22,Konkan,Groundnut
+24.6,50.8,373.7,Rabi,Black Soil,Flood,3.11,Western Maharashtra,Wheat
+30.4,56.2,775.3,Kharif,Black Soil,Rain-fed,1.34,Vidarbha,Tur (Pigeon pea)
+34.7,56.8,842.6,Kharif,Black Soil,Drip,3.63,Vidarbha,Cotton
+31.4,59.7,678.3,Kharif,Black Soil,Rain-fed,3.93,Vidarbha,Tur (Pigeon pea)
+25.1,74.4,767.5,Kharif,Red Soil,Rain-fed,0.55,Vidarbha,Soybean
+26.3,56.0,582.4,Kharif,Red Soil,Rain-fed,2.71,Marathwada,Bajra
+33.5,65.9,867.1,Kharif,Black Soil,Rain-fed,2.71,Vidarbha,Cotton
+34.1,42.8,446.9,Kharif,Sandy Soil,Rain-fed,3.96,Marathwada,Bajra
+19.5,63.2,390.5,Rabi,Black Soil,Flood,3.47,Western Maharashtra,Wheat
+25.0,73.5,1175.0,Kharif,Alluvial Soil,Flood,4.85,Konkan,Rice
+28.1,51.9,437.1,Kharif,Sandy Soil,Rain-fed,1.58,Marathwada,Bajra
+20.1,43.4,412.2,Rabi,Black Soil,Rain-fed,1.68,Western Maharashtra,Chickpea
+31.0,69.7,628.1,Kharif,Sandy Soil,Sprinkler,2.4,Western Maharashtra,Groundnut
+35.7,65.8,981.0,Annual,Black Soil,Flood,3.82,Western Maharashtra,Sugarcane
+22.7,73.5,1303.4,Kharif,Alluvial Soil,Rain-fed,0.74,Konkan,Rice
+32.0,61.9,792.7,Kharif,Red Soil,Rain-fed,1.25,Marathwada,Tur (Pigeon pea)
+27.6,56.8,580.2,Rabi,Red Soil,Rain-fed,1.83,Marathwada,Jowar
+26.8,46.8,593.8,Rabi,Black Soil,Rain-fed,2.1,Marathwada,Jowar
+26.8,45.1,439.5,Rabi,Black Soil,Rain-fed,1.81,Western Maharashtra,Chickpea
+34.4,70.4,809.8,Annual,Alluvial Soil,Drip,4.61,Western Maharashtra,Sugarcane
+28.4,42.2,420.2,Kharif,Red Soil,Rain-fed,4.12,Marathwada,Bajra
+33.4,64.7,850.8,Kharif,Black Soil,Rain-fed,1.38,Marathwada,Cotton
+24.2,50.4,354.5,Rabi,Alluvial Soil,Flood,0.72,Western Maharashtra,Wheat
+36.1,67.8,1186.8,Annual,Black Soil,Drip,1.02,Western Maharashtra,Sugarcane
+36.1,83.7,981.7,Annual,Black Soil,Drip,2.01,Western Maharashtra,Sugarcane
+23.6,72.3,900.8,Kharif,Red Soil,Rain-fed,0.71,Vidarbha,Soybean
+28.8,61.3,999.5,Kharif,Sandy Soil,Sprinkler,0.73,Western Maharashtra,Groundnut
+29.5,46.7,699.3,Kharif,Red Soil,Rain-fed,4.45,Vidarbha,Tur (Pigeon pea)
+34.5,81.5,818.7,Annual,Alluvial Soil,Drip,2.07,Western Maharashtra,Sugarcane
+23.9,47.3,404.6,Rabi,Black Soil,Rain-fed,2.74,Western Maharashtra,Chickpea
+25.8,57.8,654.9,Rabi,Red Soil,Rain-fed,0.92,Western Maharashtra,Jowar
+26.3,80.3,982.8,Annual,Alluvial Soil,Drip,1.28,Western Maharashtra,Sugarcane
+33.5,58.1,714.7,Kharif,Black Soil,Drip,4.22,Marathwada,Cotton
+23.2,61.0,644.0,Kharif,Red Soil,Rain-fed,0.74,Marathwada,Tur (Pigeon pea)
+31.7,66.8,540.0,Kharif,Sandy Soil,Rain-fed,2.54,Konkan,Groundnut
+28.6,72.4,961.3,Kharif,Alluvial Soil,Rain-fed,2.32,Konkan,Rice
+31.3,62.7,793.3,Kharif,Black Soil,Rain-fed,3.31,Vidarbha,Tur (Pigeon pea)
+29.0,46.9,602.1,Rabi,Black Soil,Rain-fed,0.59,Western Maharashtra,Jowar
+31.9,46.6,415.8,Rabi,Black Soil,Rain-fed,2.01,Western Maharashtra,Jowar
+37.1,70.0,910.2,Annual,Black Soil,Drip,2.75,Western Maharashtra,Sugarcane
+27.2,58.7,742.5,Kharif,Red Soil,Sprinkler,2.91,Konkan,Groundnut
+28.4,50.2,735.8,Kharif,Red Soil,Rain-fed,3.52,Marathwada,Tur (Pigeon pea)
+32.7,67.6,673.1,Kharif,Black Soil,Rain-fed,1.56,Marathwada,Cotton
+16.7,58.7,458.3,Rabi,Black Soil,Flood,2.28,Western Maharashtra,Wheat
+25.4,66.8,674.3,Kharif,Black Soil,Drip,3.68,Marathwada,Cotton
+30.0,63.9,965.0,Kharif,Black Soil,Rain-fed,3.05,Vidarbha,Soybean
+26.4,63.4,641.6,Kharif,Sandy Soil,Sprinkler,0.58,Western Maharashtra,Groundnut
+25.8,59.0,446.3,Rabi,Red Soil,Rain-fed,1.62,Vidarbha,Chickpea
+28.9,46.1,427.2,Kharif,Red Soil,Rain-fed,4.85,Marathwada,Bajra
+22.4,49.8,418.7,Rabi,Red Soil,Rain-fed,4.15,Western Maharashtra,Chickpea
+31.2,55.7,722.7,Rabi,Black Soil,Rain-fed,4.73,Marathwada,Jowar
+30.0,70.2,712.4,Annual,Black Soil,Drip,0.91,Western Maharashtra,Sugarcane
+26.8,64.1,623.3,Kharif,Red Soil,Sprinkler,2.62,Konkan,Groundnut
+25.9,74.3,770.6,Kharif,Red Soil,Rain-fed,2.69,Vidarbha,Soybean
+20.6,63.1,461.3,Rabi,Black Soil,Flood,2.45,Western Maharashtra,Wheat
+25.4,46.0,414.5,Rabi,Black Soil,Rain-fed,2.31,Vidarbha,Chickpea
+36.5,65.0,763.7,Annual,Black Soil,Flood,3.88,Western Maharashtra,Sugarcane
+22.8,53.2,410.4,Rabi,Red Soil,Rain-fed,2.56,Vidarbha,Chickpea
+29.4,70.4,1094.1,Kharif,Alluvial Soil,Rain-fed,2.47,Konkan,Rice
+27.6,70.7,806.1,Kharif,Black Soil,Rain-fed,1.39,Marathwada,Soybean
+21.0,55.0,467.9,Rabi,Black Soil,Flood,1.62,Western Maharashtra,Wheat
+27.3,50.8,744.4,Kharif,Black Soil,Rain-fed,2.72,Marathwada,Tur (Pigeon pea)
+22.8,74.1,979.5,Kharif,Red Soil,Rain-fed,2.16,Marathwada,Soybean
+27.3,45.4,592.4,Kharif,Sandy Soil,Rain-fed,4.87,Marathwada,Bajra
+19.4,61.1,353.0,Rabi,Alluvial Soil,Flood,4.25,Western Maharashtra,Wheat
+26.8,55.1,706.1,Kharif,Black Soil,Rain-fed,3.33,Marathwada,Tur (Pigeon pea)
+26.4,55.5,418.0,Kharif,Red Soil,Rain-fed,0.65,Marathwada,Bajra
+21.6,47.3,414.5,Rabi,Black Soil,Rain-fed,2.72,Vidarbha,Chickpea
+22.2,53.1,433.6,Rabi,Black Soil,Rain-fed,1.61,Vidarbha,Chickpea
+27.4,40.6,495.6,Rabi,Red Soil,Rain-fed,3.97,Western Maharashtra,Chickpea
+26.8,62.1,627.1,Kharif,Red Soil,Rain-fed,1.9,Konkan,Groundnut
+28.9,53.5,584.7,Rabi,Red Soil,Rain-fed,2.44,Western Maharashtra,Jowar
+20.4,65.6,873.7,Kharif,Red Soil,Rain-fed,1.05,Vidarbha,Soybean
+33.5,73.9,980.7,Annual,Alluvial Soil,Drip,1.96,Western Maharashtra,Sugarcane
+29.0,51.1,311.4,Kharif,Red Soil,Rain-fed,4.92,Marathwada,Bajra
+30.1,55.6,790.6,Kharif,Red Soil,Rain-fed,0.9,Marathwada,Tur (Pigeon pea)
+33.0,66.9,919.8,Kharif,Red Soil,Rain-fed,1.98,Western Maharashtra,Groundnut
+16.4,60.9,464.3,Rabi,Black Soil,Flood,1.33,Western Maharashtra,Wheat
+23.6,44.0,438.0,Rabi,Black Soil,Rain-fed,2.22,Western Maharashtra,Chickpea
+21.9,58.4,478.7,Rabi,Black Soil,Flood,1.21,Western Maharashtra,Wheat
+24.1,55.5,782.8,Kharif,Sandy Soil,Rain-fed,1.53,Western Maharashtra,Groundnut
+24.4,67.5,883.5,Kharif,Red Soil,Rain-fed,1.76,Western Maharashtra,Groundnut
+23.6,42.1,482.1,Rabi,Red Soil,Rain-fed,4.33,Vidarbha,Chickpea
+19.9,61.2,308.4,Rabi,Alluvial Soil,Flood,1.63,Western Maharashtra,Wheat
+25.8,68.3,803.0,Kharif,Black Soil,Drip,1.27,Vidarbha,Cotton
+32.6,61.5,651.0,Kharif,Sandy Soil,Sprinkler,3.75,Konkan,Groundnut
+26.2,70.6,1337.3,Kharif,Laterite Soil,Flood,4.85,Konkan,Rice
+28.1,64.7,943.5,Kharif,Black Soil,Rain-fed,3.47,Vidarbha,Soybean
+25.2,57.8,447.1,Rabi,Black Soil,Rain-fed,1.17,Marathwada,Jowar
+23.8,53.5,400.0,Rabi,Black Soil,Flood,2.64,Western Maharashtra,Wheat
+25.6,70.0,1044.3,Annual,Black Soil,Drip,0.58,Western Maharashtra,Sugarcane
+20.7,45.5,406.0,Rabi,Red Soil,Rain-fed,3.13,Western Maharashtra,Chickpea
+32.8,56.9,668.5,Kharif,Black Soil,Rain-fed,3.0,Vidarbha,Tur (Pigeon pea)
+35.4,78.2,1189.9,Annual,Alluvial Soil,Drip,0.76,Western Maharashtra,Sugarcane
+22.2,70.0,911.0,Kharif,Red Soil,Rain-fed,3.2,Marathwada,Soybean
+27.5,60.9,696.2,Kharif,Sandy Soil,Sprinkler,2.48,Western Maharashtra,Groundnut
+27.8,60.3,642.1,Kharif,Black Soil,Rain-fed,2.28,Marathwada,Cotton
+28.9,48.2,668.4,Rabi,Black Soil,Rain-fed,0.78,Marathwada,Jowar
+31.8,59.9,530.8,Kharif,Red Soil,Sprinkler,2.29,Western Maharashtra,Groundnut
+25.3,53.1,843.9,Kharif,Black Soil,Drip,4.04,Marathwada,Cotton
+30.0,68.9,869.6,Kharif,Black Soil,Rain-fed,2.45,Marathwada,Soybean
+29.8,44.1,423.0,Kharif,Red Soil,Rain-fed,3.56,Marathwada,Bajra
+31.1,67.5,868.9,Kharif,Red Soil,Sprinkler,4.38,Konkan,Groundnut
+30.7,57.6,842.3,Kharif,Black Soil,Drip,4.51,Marathwada,Cotton
+30.0,63.1,705.8,Rabi,Red Soil,Rain-fed,1.05,Western Maharashtra,Jowar
+28.3,58.3,418.6,Rabi,Red Soil,Rain-fed,1.25,Western Maharashtra,Jowar
+31.9,69.5,1180.0,Annual,Alluvial Soil,Drip,2.91,Western Maharashtra,Sugarcane
+34.2,46.0,455.2,Kharif,Red Soil,Rain-fed,1.96,Marathwada,Bajra
+28.4,55.9,477.6,Rabi,Black Soil,Rain-fed,1.17,Western Maharashtra,Jowar
+26.2,67.9,886.0,Kharif,Black Soil,Drip,3.84,Marathwada,Cotton
+17.5,52.1,341.3,Rabi,Black Soil,Flood,1.63,Western Maharashtra,Wheat
+26.8,78.2,933.2,Annual,Black Soil,Drip,3.27,Western Maharashtra,Sugarcane
+26.4,53.4,660.0,Rabi,Red Soil,Rain-fed,1.94,Western Maharashtra,Jowar
+31.7,57.2,792.3,Kharif,Red Soil,Rain-fed,1.08,Marathwada,Tur (Pigeon pea)
+32.0,59.4,461.7,Rabi,Red Soil,Rain-fed,2.41,Marathwada,Jowar
+22.3,84.3,1874.5,Kharif,Alluvial Soil,Rain-fed,1.47,Konkan,Rice
+20.2,67.0,801.6,Kharif,Black Soil,Rain-fed,1.78,Vidarbha,Soybean
+35.7,70.6,1176.3,Annual,Black Soil,Flood,0.6,Western Maharashtra,Sugarcane
+25.8,51.6,588.3,Rabi,Black Soil,Rain-fed,1.69,Western Maharashtra,Jowar
+28.9,70.5,1813.4,Kharif,Laterite Soil,Rain-fed,1.15,Konkan,Rice
+31.5,58.3,907.7,Kharif,Red Soil,Sprinkler,3.79,Konkan,Groundnut
+30.4,56.3,796.7,Kharif,Black Soil,Rain-fed,1.28,Marathwada,Tur (Pigeon pea)
+28.8,63.8,606.2,Rabi,Red Soil,Rain-fed,4.12,Marathwada,Jowar
+26.9,56.6,568.3,Rabi,Red Soil,Rain-fed,0.9,Marathwada,Jowar
+31.4,84.0,1056.5,Kharif,Alluvial Soil,Flood,1.79,Konkan,Rice
+32.6,54.1,837.8,Kharif,Black Soil,Drip,3.82,Vidarbha,Cotton
+26.7,58.9,600.4,Rabi,Red Soil,Rain-fed,2.04,Western Maharashtra,Jowar
+28.7,45.9,683.6,Kharif,Black Soil,Rain-fed,2.64,Marathwada,Tur (Pigeon pea)
+33.4,56.5,751.0,Kharif,Red Soil,Rain-fed,3.1,Vidarbha,Tur (Pigeon pea)
+20.2,66.2,718.5,Kharif,Red Soil,Rain-fed,4.03,Vidarbha,Soybean
+21.2,62.2,469.4,Rabi,Alluvial Soil,Flood,3.71,Western Maharashtra,Wheat
+34.0,83.8,876.4,Annual,Black Soil,Flood,1.12,Western Maharashtra,Sugarcane
+22.1,55.4,349.9,Rabi,Black Soil,Flood,4.95,Western Maharashtra,Wheat
+27.3,52.9,791.0,Rabi,Red Soil,Rain-fed,2.46,Western Maharashtra,Jowar
+23.5,69.5,881.4,Kharif,Black Soil,Rain-fed,2.87,Vidarbha,Soybean
+26.0,52.6,395.4,Kharif,Red Soil,Rain-fed,2.59,Marathwada,Bajra
+29.2,68.4,834.6,Annual,Black Soil,Drip,2.3,Western Maharashtra,Sugarcane
+34.2,68.5,623.2,Kharif,Black Soil,Rain-fed,4.17,Marathwada,Cotton
+26.4,72.2,909.9,Annual,Alluvial Soil,Drip,3.13,Western Maharashtra,Sugarcane
+26.7,57.1,818.2,Kharif,Sandy Soil,Sprinkler,0.53,Konkan,Groundnut
+29.3,72.0,1133.4,Annual,Alluvial Soil,Flood,4.55,Western Maharashtra,Sugarcane
+27.9,75.6,1559.3,Kharif,Alluvial Soil,Flood,1.08,Konkan,Rice
+22.2,62.3,942.5,Kharif,Black Soil,Rain-fed,4.92,Marathwada,Soybean
+26.2,58.3,816.8,Kharif,Red Soil,Sprinkler,1.87,Konkan,Groundnut
+31.7,52.6,709.6,Rabi,Black Soil,Rain-fed,2.7,Western Maharashtra,Jowar
+29.5,72.0,1865.2,Kharif,Alluvial Soil,Rain-fed,4.42,Konkan,Rice
+24.1,47.9,444.9,Rabi,Red Soil,Rain-fed,1.07,Western Maharashtra,Chickpea
+21.5,71.7,747.8,Kharif,Red Soil,Rain-fed,2.44,Marathwada,Soybean
+31.8,65.4,816.0,Kharif,Black Soil,Rain-fed,0.8,Marathwada,Cotton
+27.8,46.5,630.6,Rabi,Black Soil,Rain-fed,4.12,Marathwada,Jowar
+30.9,58.6,540.9,Kharif,Sandy Soil,Rain-fed,3.19,Marathwada,Bajra
+20.9,46.8,428.8,Rabi,Black Soil,Rain-fed,3.75,Vidarbha,Chickpea
+36.3,80.5,1108.9,Annual,Alluvial Soil,Flood,0.75,Western Maharashtra,Sugarcane
+23.3,49.6,649.6,Kharif,Black Soil,Rain-fed,3.63,Marathwada,Tur (Pigeon pea)
+27.9,61.8,614.4,Kharif,Black Soil,Drip,0.78,Marathwada,Cotton
+22.7,66.1,734.2,Kharif,Red Soil,Rain-fed,0.78,Vidarbha,Soybean
+30.3,58.3,729.5,Rabi,Red Soil,Rain-fed,4.93,Marathwada,Jowar
+25.2,40.8,445.3,Kharif,Red Soil,Rain-fed,4.05,Marathwada,Bajra
+25.5,50.3,702.2,Rabi,Black Soil,Rain-fed,2.98,Marathwada,Jowar
+33.8,59.0,676.2,Kharif,Sandy Soil,Rain-fed,4.66,Konkan,Groundnut
+33.6,53.4,372.1,Kharif,Sandy Soil,Rain-fed,4.16,Marathwada,Bajra
+28.2,51.8,462.0,Kharif,Red Soil,Rain-fed,1.13,Marathwada,Bajra
+31.8,48.9,583.4,Rabi,Black Soil,Rain-fed,4.66,Western Maharashtra,Jowar
+27.0,63.0,625.7,Kharif,Black Soil,Rain-fed,2.97,Vidarbha,Soybean
+28.3,63.3,781.9,Kharif,Black Soil,Rain-fed,1.51,Marathwada,Tur (Pigeon pea)
+29.7,79.9,1010.9,Annual,Black Soil,Flood,2.19,Western Maharashtra,Sugarcane
+30.5,80.1,1573.0,Kharif,Laterite Soil,Rain-fed,2.68,Konkan,Rice
+26.3,60.2,611.9,Rabi,Black Soil,Rain-fed,3.81,Marathwada,Jowar
+21.2,56.3,344.5,Rabi,Alluvial Soil,Flood,2.23,Western Maharashtra,Wheat
+24.5,56.8,647.7,Kharif,Sandy Soil,Rain-fed,4.6,Konkan,Groundnut
+32.9,60.1,776.2,Kharif,Black Soil,Rain-fed,4.87,Vidarbha,Cotton
+21.4,59.2,384.5,Rabi,Alluvial Soil,Flood,0.54,Western Maharashtra,Wheat
+25.4,58.0,592.0,Kharif,Sandy Soil,Rain-fed,0.75,Western Maharashtra,Groundnut
+26.9,59.8,615.5,Kharif,Red Soil,Rain-fed,0.85,Western Maharashtra,Groundnut
+31.5,64.3,594.2,Kharif,Red Soil,Sprinkler,3.98,Konkan,Groundnut
+28.2,79.1,926.5,Kharif,Laterite Soil,Rain-fed,3.91,Konkan,Rice
+31.7,69.0,685.7,Kharif,Sandy Soil,Sprinkler,3.6,Konkan,Groundnut
+29.6,50.2,815.6,Kharif,Black Soil,Drip,4.84,Marathwada,Cotton
+30.3,45.3,512.5,Kharif,Sandy Soil,Rain-fed,2.01,Marathwada,Bajra
+20.4,64.8,339.3,Rabi,Alluvial Soil,Flood,2.5,Western Maharashtra,Wheat
+29.8,55.3,490.6,Kharif,Red Soil,Rain-fed,3.89,Marathwada,Bajra
+34.7,48.4,553.7,Kharif,Sandy Soil,Rain-fed,4.14,Marathwada,Bajra
+23.1,73.6,1190.3,Kharif,Alluvial Soil,Flood,2.54,Konkan,Rice
+22.7,63.3,401.3,Rabi,Alluvial Soil,Flood,2.06,Western Maharashtra,Wheat
+28.1,73.5,942.8,Kharif,Red Soil,Rain-fed,2.03,Marathwada,Soybean
+24.0,84.3,1583.9,Kharif,Laterite Soil,Rain-fed,2.78,Konkan,Rice
+24.5,66.5,594.3,Kharif,Red Soil,Rain-fed,4.08,Western Maharashtra,Groundnut
+25.7,45.9,767.2,Kharif,Red Soil,Rain-fed,4.06,Marathwada,Tur (Pigeon pea)
+34.3,53.5,710.4,Kharif,Black Soil,Rain-fed,4.52,Vidarbha,Tur (Pigeon pea)
+19.7,53.8,400.5,Rabi,Alluvial Soil,Flood,1.57,Western Maharashtra,Wheat
+29.7,84.5,1681.1,Kharif,Alluvial Soil,Flood,1.62,Konkan,Rice
+26.6,64.1,697.4,Kharif,Black Soil,Rain-fed,2.1,Vidarbha,Cotton
+27.1,61.0,685.9,Kharif,Black Soil,Rain-fed,3.41,Vidarbha,Soybean
+29.4,59.2,434.1,Kharif,Red Soil,Rain-fed,1.07,Marathwada,Bajra
+32.3,73.4,912.5,Annual,Alluvial Soil,Drip,4.04,Western Maharashtra,Sugarcane
+27.6,80.3,1294.1,Kharif,Alluvial Soil,Rain-fed,2.55,Konkan,Rice
+24.3,59.7,739.0,Kharif,Black Soil,Rain-fed,0.53,Marathwada,Tur (Pigeon pea)
+23.9,75.6,1897.0,Kharif,Laterite Soil,Flood,4.15,Konkan,Rice
+24.0,57.9,798.8,Kharif,Red Soil,Rain-fed,0.71,Western Maharashtra,Groundnut
+24.9,55.2,556.8,Kharif,Red Soil,Sprinkler,4.31,Western Maharashtra,Groundnut
+33.7,66.7,932.1,Kharif,Red Soil,Rain-fed,4.92,Western Maharashtra,Groundnut
+29.5,45.4,506.3,Rabi,Red Soil,Rain-fed,1.64,Western Maharashtra,Jowar
+33.6,67.2,857.7,Kharif,Black Soil,Rain-fed,2.92,Marathwada,Cotton
+35.9,72.9,1056.2,Annual,Alluvial Soil,Drip,2.83,Western Maharashtra,Sugarcane
+30.4,49.1,549.8,Rabi,Red Soil,Rain-fed,2.8,Marathwada,Jowar
+17.3,52.6,494.9,Rabi,Alluvial Soil,Flood,3.53,Western Maharashtra,Wheat
+25.1,62.4,770.8,Kharif,Black Soil,Rain-fed,3.58,Vidarbha,Soybean
+37.9,71.7,1107.4,Annual,Black Soil,Flood,1.79,Western Maharashtra,Sugarcane
+27.5,56.0,474.6,Rabi,Red Soil,Rain-fed,1.73,Western Maharashtra,Jowar
+23.4,60.9,660.7,Kharif,Red Soil,Rain-fed,4.93,Marathwada,Soybean
+26.9,61.4,810.1,Kharif,Red Soil,Rain-fed,3.41,Konkan,Groundnut
+30.0,55.9,503.2,Kharif,Red Soil,Sprinkler,4.44,Konkan,Groundnut
+25.0,81.7,1480.2,Kharif,Laterite Soil,Flood,2.78,Konkan,Rice
+28.0,56.1,729.9,Rabi,Black Soil,Rain-fed,1.95,Western Maharashtra,Jowar
+28.1,52.4,703.3,Rabi,Red Soil,Rain-fed,3.77,Marathwada,Jowar
+28.2,59.7,659.5,Kharif,Black Soil,Rain-fed,2.75,Vidarbha,Tur (Pigeon pea)
+26.2,58.6,508.0,Kharif,Sandy Soil,Rain-fed,3.76,Marathwada,Bajra
+25.3,47.1,700.3,Kharif,Red Soil,Rain-fed,2.92,Marathwada,Tur (Pigeon pea)
+36.8,76.3,1195.7,Annual,Black Soil,Flood,0.88,Western Maharashtra,Sugarcane
+27.6,51.7,626.9,Kharif,Black Soil,Drip,2.23,Marathwada,Cotton
+31.6,49.5,675.7,Rabi,Red Soil,Rain-fed,3.9,Western Maharashtra,Jowar
+26.2,53.3,391.1,Kharif,Sandy Soil,Rain-fed,0.54,Marathwada,Bajra
+17.8,57.4,341.8,Rabi,Black Soil,Flood,1.81,Western Maharashtra,Wheat
+29.3,59.6,393.0,Kharif,Sandy Soil,Rain-fed,2.38,Marathwada,Bajra
+26.9,65.2,801.3,Kharif,Black Soil,Drip,4.81,Vidarbha,Cotton
+28.6,49.3,427.7,Kharif,Red Soil,Rain-fed,1.37,Marathwada,Bajra
+19.9,58.2,450.1,Rabi,Alluvial Soil,Flood,3.97,Western Maharashtra,Wheat
+23.6,61.8,962.6,Kharif,Red Soil,Rain-fed,1.94,Vidarbha,Soybean
+22.5,61.8,754.5,Kharif,Black Soil,Rain-fed,2.07,Vidarbha,Tur (Pigeon pea)
+27.9,60.5,874.5,Kharif,Red Soil,Rain-fed,1.72,Marathwada,Soybean
+24.8,72.9,1563.9,Kharif,Alluvial Soil,Rain-fed,1.74,Konkan,Rice
+27.5,74.9,862.9,Kharif,Black Soil,Rain-fed,2.5,Vidarbha,Soybean
+34.2,66.2,685.9,Kharif,Black Soil,Drip,3.67,Marathwada,Cotton
+26.5,71.3,1631.6,Kharif,Laterite Soil,Rain-fed,0.98,Konkan,Rice
+31.4,65.4,698.7,Kharif,Black Soil,Drip,2.77,Marathwada,Cotton
+27.5,72.0,1736.3,Kharif,Laterite Soil,Rain-fed,1.58,Konkan,Rice
+30.4,64.0,759.9,Kharif,Black Soil,Rain-fed,2.39,Marathwada,Tur (Pigeon pea)
+20.0,64.4,470.8,Rabi,Black Soil,Flood,3.48,Western Maharashtra,Wheat
+27.7,79.2,1009.3,Kharif,Laterite Soil,Rain-fed,2.51,Konkan,Rice
+20.0,57.9,429.2,Rabi,Black Soil,Rain-fed,2.85,Vidarbha,Chickpea
+21.2,45.5,404.2,Rabi,Black Soil,Rain-fed,1.17,Vidarbha,Chickpea
+22.9,46.8,489.7,Rabi,Black Soil,Rain-fed,4.24,Vidarbha,Chickpea
+25.2,47.6,679.5,Kharif,Black Soil,Rain-fed,0.64,Marathwada,Tur (Pigeon pea)
+25.7,58.7,562.0,Rabi,Black Soil,Rain-fed,2.5,Marathwada,Jowar
+27.2,53.0,673.9,Kharif,Black Soil,Rain-fed,0.67,Marathwada,Cotton
+37.6,78.8,881.9,Annual,Black Soil,Flood,3.17,Western Maharashtra,Sugarcane
+32.1,57.0,470.2,Kharif,Sandy Soil,Rain-fed,4.58,Marathwada,Bajra
+34.0,70.5,721.9,Annual,Alluvial Soil,Drip,2.07,Western Maharashtra,Sugarcane
+20.9,69.9,919.5,Kharif,Red Soil,Rain-fed,2.56,Vidarbha,Soybean
+27.0,62.0,403.6,Rabi,Red Soil,Rain-fed,3.15,Marathwada,Jowar
+35.8,70.6,819.0,Annual,Alluvial Soil,Drip,1.61,Western Maharashtra,Sugarcane
+25.2,66.3,887.5,Kharif,Black Soil,Drip,1.97,Marathwada,Cotton
+22.8,48.4,727.1,Kharif,Black Soil,Rain-fed,0.89,Vidarbha,Tur (Pigeon pea)
+25.3,58.1,429.2,Rabi,Red Soil,Rain-fed,4.59,Western Maharashtra,Chickpea
+20.5,40.2,407.0,Rabi,Black Soil,Rain-fed,1.14,Vidarbha,Chickpea
+24.4,59.2,443.6,Rabi,Black Soil,Rain-fed,2.41,Vidarbha,Chickpea
+30.8,69.3,944.5,Kharif,Red Soil,Sprinkler,3.73,Western Maharashtra,Groundnut
+32.1,83.3,1021.3,Annual,Alluvial Soil,Drip,1.93,Western Maharashtra,Sugarcane
+21.4,69.4,982.4,Kharif,Black Soil,Rain-fed,3.34,Marathwada,Soybean
+24.5,73.0,998.7,Kharif,Red Soil,Rain-fed,2.59,Marathwada,Soybean
+29.7,83.4,747.1,Annual,Alluvial Soil,Flood,2.96,Western Maharashtra,Sugarcane
+21.6,47.5,400.2,Rabi,Red Soil,Rain-fed,2.65,Vidarbha,Chickpea
+28.9,53.8,578.7,Kharif,Sandy Soil,Rain-fed,4.39,Marathwada,Bajra
+27.6,50.1,420.5,Rabi,Red Soil,Rain-fed,3.84,Marathwada,Jowar
+29.4,78.8,1767.8,Kharif,Laterite Soil,Flood,1.11,Konkan,Rice
+22.6,46.0,449.7,Rabi,Black Soil,Rain-fed,0.85,Western Maharashtra,Chickpea
+26.6,56.1,460.1,Rabi,Red Soil,Rain-fed,4.46,Western Maharashtra,Chickpea
+18.6,58.8,328.1,Rabi,Alluvial Soil,Flood,3.97,Western Maharashtra,Wheat
+28.2,64.4,659.4,Kharif,Red Soil,Rain-fed,1.63,Konkan,Groundnut
+27.7,46.1,724.4,Kharif,Red Soil,Rain-fed,3.25,Marathwada,Tur (Pigeon pea)
+17.1,63.1,309.1,Rabi,Black Soil,Flood,3.74,Western Maharashtra,Wheat
+27.8,66.5,674.4,Kharif,Black Soil,Rain-fed,1.29,Marathwada,Cotton
+31.5,48.8,670.5,Rabi,Black Soil,Rain-fed,3.74,Marathwada,Jowar
+23.7,61.0,669.2,Kharif,Red Soil,Rain-fed,4.09,Marathwada,Soybean
+28.0,49.1,536.2,Rabi,Red Soil,Rain-fed,4.26,Western Maharashtra,Jowar
+23.6,77.1,1939.5,Kharif,Laterite Soil,Rain-fed,4.21,Konkan,Rice
+25.9,80.9,1895.5,Kharif,Laterite Soil,Flood,2.69,Konkan,Rice
+22.8,72.6,930.9,Kharif,Alluvial Soil,Flood,1.74,Konkan,Rice
+26.6,77.3,1784.9,Kharif,Laterite Soil,Flood,1.15,Konkan,Rice
+27.4,61.0,862.8,Kharif,Black Soil,Drip,3.12,Vidarbha,Cotton
+23.0,74.9,905.1,Kharif,Black Soil,Rain-fed,4.9,Vidarbha,Soybean
+27.4,56.5,585.2,Rabi,Black Soil,Rain-fed,2.26,Marathwada,Jowar
+29.0,74.6,971.8,Kharif,Black Soil,Rain-fed,4.84,Marathwada,Soybean
+24.2,53.5,476.5,Rabi,Black Soil,Rain-fed,2.68,Western Maharashtra,Chickpea
+29.9,78.8,1857.3,Kharif,Alluvial Soil,Flood,4.72,Konkan,Rice
+16.4,60.9,374.0,Rabi,Black Soil,Flood,4.32,Western Maharashtra,Wheat
+21.3,60.2,398.5,Rabi,Alluvial Soil,Flood,3.37,Western Maharashtra,Wheat
+35.9,75.4,1197.8,Annual,Alluvial Soil,Drip,4.35,Western Maharashtra,Sugarcane
+27.2,52.3,596.5,Kharif,Sandy Soil,Rain-fed,3.59,Marathwada,Bajra
+27.4,56.8,941.9,Kharif,Red Soil,Sprinkler,2.43,Western Maharashtra,Groundnut
+27.7,57.2,717.1,Kharif,Red Soil,Rain-fed,1.48,Vidarbha,Tur (Pigeon pea)
+28.4,66.9,642.3,Kharif,Red Soil,Rain-fed,3.0,Marathwada,Soybean
+30.6,57.5,744.3,Rabi,Black Soil,Rain-fed,1.14,Marathwada,Jowar
+26.7,48.0,401.7,Rabi,Black Soil,Rain-fed,4.7,Western Maharashtra,Chickpea
+31.6,74.6,779.6,Annual,Alluvial Soil,Flood,3.63,Western Maharashtra,Sugarcane
+32.5,59.5,730.3,Kharif,Black Soil,Rain-fed,2.89,Vidarbha,Tur (Pigeon pea)
+30.2,48.3,763.2,Kharif,Black Soil,Rain-fed,4.9,Marathwada,Tur (Pigeon pea)
+31.3,67.7,649.1,Kharif,Black Soil,Drip,1.45,Marathwada,Cotton
+22.9,56.1,482.1,Rabi,Red Soil,Rain-fed,1.46,Western Maharashtra,Chickpea
+31.0,62.1,650.4,Kharif,Red Soil,Rain-fed,3.29,Marathwada,Tur (Pigeon pea)
+19.7,51.1,489.7,Rabi,Black Soil,Flood,2.96,Western Maharashtra,Wheat
+22.3,56.1,422.6,Rabi,Red Soil,Rain-fed,2.97,Western Maharashtra,Chickpea
+29.3,67.4,1068.5,Annual,Alluvial Soil,Flood,3.5,Western Maharashtra,Sugarcane
+36.6,71.9,917.7,Annual,Alluvial Soil,Drip,2.99,Western Maharashtra,Sugarcane
+21.2,53.6,434.3,Rabi,Black Soil,Flood,3.88,Western Maharashtra,Wheat
+28.9,60.6,522.6,Kharif,Red Soil,Rain-fed,3.73,Western Maharashtra,Groundnut
+20.0,57.3,364.9,Rabi,Alluvial Soil,Flood,1.47,Western Maharashtra,Wheat
+15.1,57.3,422.1,Rabi,Alluvial Soil,Flood,3.17,Western Maharashtra,Wheat
+26.0,70.5,780.0,Kharif,Red Soil,Rain-fed,1.23,Marathwada,Soybean
+25.7,54.4,338.9,Kharif,Red Soil,Rain-fed,1.95,Marathwada,Bajra
+27.2,56.4,598.9,Rabi,Black Soil,Rain-fed,4.69,Western Maharashtra,Jowar
+25.7,59.3,413.6,Rabi,Red Soil,Rain-fed,1.04,Western Maharashtra,Chickpea
+25.1,54.4,430.7,Rabi,Black Soil,Rain-fed,1.89,Vidarbha,Chickpea
+27.3,40.1,477.3,Kharif,Red Soil,Rain-fed,2.96,Marathwada,Bajra
+31.0,72.8,1711.5,Kharif,Alluvial Soil,Flood,1.48,Konkan,Rice
+31.6,53.7,642.0,Rabi,Black Soil,Rain-fed,2.39,Marathwada,Jowar
+17.9,57.1,493.4,Rabi,Alluvial Soil,Flood,2.63,Western Maharashtra,Wheat
+25.5,59.9,608.2,Kharif,Black Soil,Rain-fed,1.47,Vidarbha,Cotton
+23.7,61.1,452.2,Rabi,Alluvial Soil,Flood,4.56,Western Maharashtra,Wheat
+24.5,56.5,637.5,Kharif,Black Soil,Rain-fed,2.13,Vidarbha,Tur (Pigeon pea)
+27.1,40.2,401.8,Rabi,Red Soil,Rain-fed,4.09,Western Maharashtra,Chickpea
+31.5,51.0,625.7,Rabi,Red Soil,Rain-fed,3.17,Marathwada,Jowar
+29.5,59.0,968.3,Kharif,Red Soil,Sprinkler,1.82,Western Maharashtra,Groundnut
+26.8,57.6,373.6,Kharif,Sandy Soil,Rain-fed,1.75,Marathwada,Bajra
+29.6,46.2,637.7,Rabi,Black Soil,Rain-fed,1.14,Marathwada,Jowar
+26.4,57.5,557.2,Rabi,Black Soil,Rain-fed,2.42,Marathwada,Jowar
+28.4,56.0,762.5,Kharif,Black Soil,Rain-fed,3.85,Marathwada,Tur (Pigeon pea)
+18.2,60.7,431.8,Rabi,Alluvial Soil,Flood,2.42,Western Maharashtra,Wheat
+32.0,53.1,764.3,Kharif,Black Soil,Rain-fed,3.57,Marathwada,Cotton
+34.9,52.9,378.1,Kharif,Red Soil,Rain-fed,3.61,Marathwada,Bajra
+27.9,56.6,873.8,Kharif,Red Soil,Rain-fed,4.26,Konkan,Groundnut
+21.6,55.9,457.0,Rabi,Red Soil,Rain-fed,1.84,Western Maharashtra,Chickpea
+18.8,50.0,402.4,Rabi,Alluvial Soil,Flood,2.6,Western Maharashtra,Wheat
+27.4,70.3,1566.5,Kharif,Alluvial Soil,Rain-fed,3.77,Konkan,Rice
+26.4,43.7,381.1,Kharif,Red Soil,Rain-fed,0.9,Marathwada,Bajra
+31.5,47.1,547.2,Rabi,Red Soil,Rain-fed,0.75,Western Maharashtra,Jowar
+28.5,50.1,716.4,Kharif,Black Soil,Rain-fed,0.82,Vidarbha,Tur (Pigeon pea)
+28.9,77.9,1212.7,Kharif,Alluvial Soil,Rain-fed,2.46,Konkan,Rice
+19.4,62.7,493.6,Rabi,Alluvial Soil,Flood,1.83,Western Maharashtra,Wheat
+27.2,50.3,426.6,Rabi,Black Soil,Rain-fed,4.36,Western Maharashtra,Jowar
+29.8,49.4,517.2,Rabi,Black Soil,Rain-fed,2.5,Marathwada,Jowar
+26.0,47.6,525.9,Kharif,Red Soil,Rain-fed,2.75,Marathwada,Bajra
+26.2,52.0,424.4,Rabi,Black Soil,Rain-fed,1.63,Western Maharashtra,Chickpea
+21.6,74.1,717.4,Kharif,Black Soil,Rain-fed,1.36,Marathwada,Soybean
+21.7,41.4,445.3,Rabi,Black Soil,Rain-fed,3.68,Vidarbha,Chickpea
+24.5,58.8,665.1,Kharif,Red Soil,Sprinkler,4.6,Konkan,Groundnut
+29.0,83.1,1148.0,Kharif,Laterite Soil,Rain-fed,2.35,Konkan,Rice
+26.6,54.0,796.4,Kharif,Black Soil,Drip,4.09,Marathwada,Cotton
+24.1,71.3,951.8,Kharif,Red Soil,Rain-fed,3.79,Vidarbha,Soybean
+25.2,41.8,489.2,Rabi,Red Soil,Rain-fed,2.59,Vidarbha,Chickpea
+26.6,83.0,1658.8,Kharif,Laterite Soil,Rain-fed,2.94,Konkan,Rice
+27.8,48.4,486.1,Rabi,Red Soil,Rain-fed,0.66,Vidarbha,Chickpea
+26.8,77.0,1179.9,Annual,Alluvial Soil,Drip,3.67,Western Maharashtra,Sugarcane
+37.0,65.4,930.2,Annual,Alluvial Soil,Flood,1.89,Western Maharashtra,Sugarcane
+33.8,57.6,630.0,Kharif,Sandy Soil,Rain-fed,1.33,Western Maharashtra,Groundnut
+24.2,53.9,420.8,Rabi,Alluvial Soil,Flood,1.29,Western Maharashtra,Wheat
+25.3,58.8,389.1,Kharif,Red Soil,Rain-fed,3.18,Marathwada,Bajra
+27.7,70.4,1164.9,Kharif,Alluvial Soil,Flood,0.78,Konkan,Rice
+28.1,59.3,672.0,Kharif,Black Soil,Rain-fed,1.97,Marathwada,Cotton
+33.2,59.4,397.7,Kharif,Red Soil,Rain-fed,4.48,Marathwada,Bajra
+26.9,51.8,607.9,Kharif,Black Soil,Drip,3.64,Marathwada,Cotton
+21.9,61.4,320.1,Rabi,Black Soil,Flood,2.49,Western Maharashtra,Wheat
+27.1,55.6,696.6,Rabi,Red Soil,Rain-fed,0.93,Marathwada,Jowar
+26.0,67.5,716.2,Annual,Black Soil,Drip,0.83,Western Maharashtra,Sugarcane
+30.6,63.4,694.0,Rabi,Black Soil,Rain-fed,2.96,Marathwada,Jowar
+32.2,52.9,595.1,Kharif,Sandy Soil,Rain-fed,3.96,Marathwada,Bajra
+22.4,73.3,1792.2,Kharif,Laterite Soil,Flood,2.82,Konkan,Rice
+25.5,76.5,1691.7,Kharif,Laterite Soil,Rain-fed,4.12,Konkan,Rice
+32.7,40.1,399.4,Kharif,Sandy Soil,Rain-fed,2.28,Marathwada,Bajra
+27.0,51.0,460.8,Rabi,Red Soil,Rain-fed,4.11,Western Maharashtra,Chickpea
+33.2,79.1,1001.4,Annual,Black Soil,Flood,1.15,Western Maharashtra,Sugarcane
+24.5,64.9,491.2,Rabi,Black Soil,Flood,0.58,Western Maharashtra,Wheat
+19.6,52.3,472.2,Rabi,Alluvial Soil,Flood,1.88,Western Maharashtra,Wheat
+29.4,47.4,374.9,Kharif,Sandy Soil,Rain-fed,2.89,Marathwada,Bajra
+25.9,54.3,491.4,Rabi,Red Soil,Rain-fed,0.76,Vidarbha,Chickpea
+26.2,66.1,689.4,Kharif,Sandy Soil,Sprinkler,3.56,Western Maharashtra,Groundnut
+30.2,78.5,1102.4,Annual,Alluvial Soil,Flood,0.53,Western Maharashtra,Sugarcane
+20.8,60.2,450.0,Rabi,Black Soil,Flood,1.47,Western Maharashtra,Wheat
+24.5,49.1,705.9,Kharif,Red Soil,Rain-fed,4.71,Vidarbha,Tur (Pigeon pea)
+23.3,71.4,902.1,Kharif,Laterite Soil,Flood,3.89,Konkan,Rice
+31.3,40.0,410.0,Kharif,Sandy Soil,Rain-fed,0.95,Marathwada,Bajra
+30.6,61.8,778.1,Rabi,Red Soil,Rain-fed,4.98,Western Maharashtra,Jowar
+27.8,64.1,770.8,Rabi,Black Soil,Rain-fed,1.81,Western Maharashtra,Jowar
+22.3,50.2,493.3,Rabi,Red Soil,Rain-fed,1.93,Vidarbha,Chickpea
+32.9,67.4,867.3,Kharif,Red Soil,Rain-fed,2.46,Konkan,Groundnut
+25.5,71.6,917.6,Kharif,Black Soil,Rain-fed,4.15,Vidarbha,Soybean
+28.8,83.7,1286.9,Kharif,Laterite Soil,Rain-fed,2.59,Konkan,Rice
+28.1,57.7,783.2,Kharif,Black Soil,Rain-fed,2.63,Marathwada,Tur (Pigeon pea)
+31.4,75.2,962.0,Kharif,Laterite Soil,Flood,2.91,Konkan,Rice
+25.8,65.3,556.5,Kharif,Red Soil,Sprinkler,2.98,Konkan,Groundnut
+17.9,54.2,348.6,Rabi,Alluvial Soil,Flood,2.04,Western Maharashtra,Wheat
+28.4,69.3,934.0,Annual,Black Soil,Flood,1.53,Western Maharashtra,Sugarcane
+21.6,55.7,411.1,Rabi,Alluvial Soil,Flood,1.56,Western Maharashtra,Wheat
+24.7,67.1,772.9,Kharif,Sandy Soil,Sprinkler,1.69,Konkan,Groundnut
+24.1,62.2,969.8,Kharif,Black Soil,Rain-fed,2.01,Vidarbha,Soybean
+28.7,74.3,665.7,Kharif,Black Soil,Rain-fed,2.67,Vidarbha,Soybean
+24.4,62.7,906.6,Kharif,Sandy Soil,Sprinkler,0.54,Konkan,Groundnut
+27.6,56.0,751.0,Rabi,Red Soil,Rain-fed,2.08,Western Maharashtra,Jowar
+27.8,49.5,475.8,Rabi,Black Soil,Rain-fed,1.29,Western Maharashtra,Chickpea
+20.9,47.8,424.2,Rabi,Red Soil,Rain-fed,3.17,Vidarbha,Chickpea
+24.5,57.1,491.4,Rabi,Black Soil,Flood,0.73,Western Maharashtra,Wheat
+32.5,81.6,786.5,Annual,Alluvial Soil,Flood,4.24,Western Maharashtra,Sugarcane
+34.4,63.9,697.1,Kharif,Black Soil,Drip,0.68,Marathwada,Cotton
+26.9,63.0,559.2,Kharif,Red Soil,Rain-fed,1.72,Western Maharashtra,Groundnut
+29.4,72.6,1106.5,Kharif,Alluvial Soil,Flood,2.56,Konkan,Rice
+26.6,60.6,914.3,Kharif,Red Soil,Rain-fed,0.91,Marathwada,Soybean
+31.0,67.8,1045.8,Annual,Black Soil,Flood,4.17,Western Maharashtra,Sugarcane
+25.9,59.4,418.3,Rabi,Black Soil,Rain-fed,4.01,Marathwada,Jowar
+24.2,69.0,822.5,Kharif,Red Soil,Rain-fed,3.76,Konkan,Groundnut
+33.5,56.8,716.3,Kharif,Black Soil,Rain-fed,0.77,Vidarbha,Cotton
+22.6,67.0,705.4,Kharif,Red Soil,Rain-fed,1.72,Vidarbha,Soybean
+22.6,50.0,603.0,Kharif,Black Soil,Rain-fed,2.7,Vidarbha,Tur (Pigeon pea)
+24.7,57.4,460.5,Rabi,Black Soil,Rain-fed,3.17,Vidarbha,Chickpea
+23.3,73.3,807.1,Kharif,Red Soil,Rain-fed,4.29,Marathwada,Soybean
+25.2,61.2,723.0,Kharif,Red Soil,Rain-fed,4.07,Marathwada,Soybean
+29.6,49.9,761.5,Rabi,Red Soil,Rain-fed,4.62,Marathwada,Jowar
+25.4,59.9,648.2,Kharif,Black Soil,Drip,4.45,Vidarbha,Cotton
+27.1,63.7,416.3,Rabi,Black Soil,Rain-fed,1.97,Western Maharashtra,Jowar
+27.9,45.2,604.7,Kharif,Black Soil,Rain-fed,3.44,Vidarbha,Tur (Pigeon pea)
+25.3,51.2,638.9,Kharif,Black Soil,Drip,3.04,Marathwada,Cotton
+28.2,73.5,953.4,Kharif,Red Soil,Rain-fed,3.47,Marathwada,Soybean
+29.4,80.7,940.2,Kharif,Laterite Soil,Rain-fed,1.25,Konkan,Rice
+31.5,64.5,436.7,Rabi,Black Soil,Rain-fed,3.6,Western Maharashtra,Jowar
+30.7,78.4,1162.1,Annual,Alluvial Soil,Flood,3.86,Western Maharashtra,Sugarcane
+29.8,65.7,698.7,Kharif,Red Soil,Sprinkler,2.68,Konkan,Groundnut
+27.6,50.0,407.5,Rabi,Red Soil,Rain-fed,2.54,Vidarbha,Chickpea
+30.9,76.5,1276.7,Kharif,Laterite Soil,Rain-fed,4.94,Konkan,Rice
+31.7,54.4,419.6,Kharif,Sandy Soil,Rain-fed,2.13,Marathwada,Bajra
+26.6,42.1,446.4,Rabi,Black Soil,Rain-fed,1.74,Western Maharashtra,Chickpea
+25.2,80.0,1087.6,Annual,Black Soil,Flood,1.55,Western Maharashtra,Sugarcane
+31.6,52.8,837.0,Kharif,Black Soil,Drip,4.25,Marathwada,Cotton
+32.6,55.1,504.7,Kharif,Sandy Soil,Rain-fed,2.48,Western Maharashtra,Groundnut
+22.6,49.3,484.6,Rabi,Black Soil,Rain-fed,0.51,Vidarbha,Chickpea
+32.9,48.5,323.8,Kharif,Sandy Soil,Rain-fed,4.33,Marathwada,Bajra
+31.5,54.7,859.5,Kharif,Black Soil,Rain-fed,0.54,Vidarbha,Cotton
+26.7,55.4,402.5,Rabi,Red Soil,Rain-fed,1.14,Western Maharashtra,Jowar
+26.3,48.2,502.1,Rabi,Red Soil,Rain-fed,3.98,Marathwada,Jowar
+24.0,60.1,642.0,Kharif,Sandy Soil,Rain-fed,0.66,Western Maharashtra,Groundnut
+29.4,73.9,929.9,Annual,Black Soil,Drip,1.36,Western Maharashtra,Sugarcane
+26.3,73.9,820.1,Kharif,Black Soil,Rain-fed,4.6,Marathwada,Soybean
+37.5,76.6,773.6,Annual,Black Soil,Drip,4.62,Western Maharashtra,Sugarcane
+31.6,63.3,524.3,Rabi,Red Soil,Rain-fed,4.02,Western Maharashtra,Jowar
+26.8,57.7,519.9,Rabi,Red Soil,Rain-fed,1.22,Marathwada,Jowar
+33.8,75.2,920.1,Annual,Alluvial Soil,Drip,3.53,Western Maharashtra,Sugarcane
+28.0,79.2,918.0,Kharif,Laterite Soil,Rain-fed,3.64,Konkan,Rice
+30.7,64.9,704.6,Kharif,Sandy Soil,Rain-fed,1.9,Konkan,Groundnut
+25.7,64.4,778.9,Kharif,Red Soil,Rain-fed,3.0,Vidarbha,Soybean
+30.6,62.3,705.7,Kharif,Black Soil,Drip,4.6,Marathwada,Cotton
+33.9,52.8,706.5,Kharif,Black Soil,Drip,3.71,Marathwada,Cotton
+22.5,47.2,697.6,Kharif,Red Soil,Rain-fed,3.05,Marathwada,Tur (Pigeon pea)
+23.7,67.2,831.3,Kharif,Red Soil,Rain-fed,4.58,Vidarbha,Soybean
+20.7,58.1,428.7,Rabi,Black Soil,Rain-fed,1.59,Vidarbha,Chickpea
+25.5,81.8,1250.8,Kharif,Laterite Soil,Rain-fed,3.14,Konkan,Rice
+24.7,59.4,381.6,Rabi,Black Soil,Flood,1.87,Western Maharashtra,Wheat
+34.5,63.3,606.4,Kharif,Black Soil,Rain-fed,3.15,Vidarbha,Tur (Pigeon pea)
+26.2,50.8,618.0,Rabi,Red Soil,Rain-fed,1.88,Marathwada,Jowar
+25.4,53.4,492.2,Rabi,Black Soil,Rain-fed,4.92,Vidarbha,Chickpea
+27.6,65.4,814.0,Kharif,Black Soil,Rain-fed,1.57,Marathwada,Soybean
+27.6,77.3,1057.0,Annual,Black Soil,Flood,3.08,Western Maharashtra,Sugarcane
+29.7,55.5,702.4,Kharif,Red Soil,Rain-fed,3.07,Vidarbha,Tur (Pigeon pea)
+23.1,42.6,465.8,Rabi,Black Soil,Rain-fed,4.49,Western Maharashtra,Chickpea
+21.7,74.0,921.7,Kharif,Red Soil,Rain-fed,4.95,Vidarbha,Soybean
+21.0,52.4,463.4,Rabi,Red Soil,Rain-fed,1.69,Vidarbha,Chickpea
+29.6,66.6,545.3,Kharif,Sandy Soil,Rain-fed,0.62,Konkan,Groundnut
+30.1,58.4,536.9,Kharif,Sandy Soil,Sprinkler,3.62,Western Maharashtra,Groundnut
+26.8,78.5,1564.1,Kharif,Alluvial Soil,Rain-fed,4.78,Konkan,Rice
+24.6,46.0,416.2,Rabi,Black Soil,Rain-fed,4.64,Western Maharashtra,Chickpea
+22.9,82.7,1499.2,Kharif,Laterite Soil,Rain-fed,3.87,Konkan,Rice
+26.1,55.9,476.5,Rabi,Red Soil,Rain-fed,4.43,Western Maharashtra,Chickpea
+22.6,49.6,473.2,Rabi,Red Soil,Rain-fed,1.06,Vidarbha,Chickpea
+28.9,60.3,771.5,Kharif,Black Soil,Rain-fed,1.65,Marathwada,Cotton
+28.4,55.8,749.3,Kharif,Red Soil,Rain-fed,4.64,Vidarbha,Tur (Pigeon pea)
+28.0,50.1,561.3,Kharif,Red Soil,Rain-fed,3.04,Marathwada,Bajra
+26.7,80.6,1327.8,Kharif,Laterite Soil,Rain-fed,1.28,Konkan,Rice
+25.9,83.4,906.0,Kharif,Alluvial Soil,Rain-fed,1.17,Konkan,Rice
+24.5,49.5,765.9,Kharif,Black Soil,Rain-fed,1.87,Marathwada,Tur (Pigeon pea)
+28.6,74.4,1953.1,Kharif,Laterite Soil,Rain-fed,2.28,Konkan,Rice
+28.3,79.2,1014.1,Kharif,Laterite Soil,Rain-fed,0.54,Konkan,Rice
